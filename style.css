@@ -1,0 +1,122 @@
+html
+{background:black;}
+
+body
+{background:black;
+font-family:'Josefin Sans', sans-serif;
+font-size: 22.5px;
+line-height: 29px;
+text-align:center;}
+
+header
+{text-align:center;
+background:url(background.jpg);
+background-size:cover;
+background-position:100% 100%;
+text-color:white;}
+
+.spacer
+{height:400px;}
+
+#menu
+{
+padding:10px;
+background:rbga(0, 0, 0, 0.5)
+}
+
+#menuitem
+{display:inline;
+padding:15px 30px 15px 30px;
+text-transform:uppercase;}
+
+a
+{color:white;
+text-decoration:none;}
+
+a:hover
+{color:#999999;}
+
+h2
+{background:black;
+color:white;
+padding:10px;
+text-align:center;
+margin-top:30px;
+text-transform:uppercase;}
+
+article
+{background:black; 
+color:white;
+padding:30px 10px -10px 10px;
+text-align:center;}
+
+img
+{width:50%;
+position:0% 100%;
+margin-top:-20px;
+text-align:center;
+}
+
+
+#logo
+{width:60%;
+max-width: 500px;
+position:0% 100%;
+margin-top:-20px;
+text-align:center;
+}
+
+
+#social-insta
+{width:3%;
+max-width: 30px;
+position:absolute;
+right:15px;
+top:38px;
+}
+
+#social-twitter
+{width:3%;
+max-width: 30px;
+position:absolute;
+right: 55px;
+top:40px;
+}
+
+footer
+{font-size:12px;
+color:white;
+text-align:left;}
+
+table
+{width:100%;
+background-color:black;
+padding-top:40px;
+border: white 10px solid;
+color:white;
+font-size:22.5px;
+margin-bottom:50px;}
+
+td
+{padding: 10px;
+text-align:center;}
+
+#thumbnails
+{width:225px;
+border: white 5px solid;}
+
+#contact
+{border:none;
+text-align:center;}
+
+#me
+{
+width: 250px;
+padding-top:25px;
+padding-bottom:25px;}
+
+td
+{width:150px;}
+
+#skills
+{width:cover;}
